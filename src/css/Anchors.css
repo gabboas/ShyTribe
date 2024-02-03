@@ -1,0 +1,8 @@
+nav > ul > li > a {
+  text-decoration: none;
+  list-style: none;
+  text-transform: uppercase;
+  color: rgb(38, 14, 61);
+  font-size: 2em;
+  text-align: center;
+}
