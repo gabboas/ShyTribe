@@ -1,8 +1,9 @@
-nav > ul > li > a {
+nav > ul > li > button > a {
   text-decoration: none;
   list-style: none;
   text-transform: uppercase;
   color: rgb(38, 14, 61);
-  font-size: 2em;
   text-align: center;
+  margin: auto 50px;
+  font-size: 2em;
 }

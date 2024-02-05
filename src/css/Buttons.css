@@ -1,0 +1,7 @@
+button{
+    background-color: #f361fb;
+    border: solid #f361fb 2px;
+    border-radius: 35%;
+    object-fit:fill;
+    margin: auto 50px;
+}
