@@ -7,6 +7,10 @@
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
+#navdiv__container {
+  padding: 50px;
+}
+
 #aboutus__container {
   display: flex;
   margin: 100px 30px;

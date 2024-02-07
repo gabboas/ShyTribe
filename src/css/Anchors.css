@@ -6,21 +6,34 @@ nav > ul > li > a {
   box-shadow: 6px 8px 6px rgb(26, 20, 99);
   object-fit: fill;
   margin: auto 50px;
-
   cursor: pointer;
   text-transform: uppercase;
   text-align: center;
   margin: auto 50px;
-  font-size: 2em;
+  font-size: 1.5em;
   text-decoration: none;
   padding-left: 8px;
   padding-right: 8px;
+  max-width: 100%;
+}
+
+nav {
+  position: relative;
+}
+
+nav > ul {
+  position: absolute;
+}
+
+nav > ul > li {
+  display: block;
 }
 
 nav > ul > li > a:hover {
   color: rgb(254, 254, 254);
   background-color: rgb(88, 38, 99);
   transition: 1s;
+  font-size: 2em;
 }
 
 nav > ul > li > a:active {
