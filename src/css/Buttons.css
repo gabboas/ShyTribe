@@ -1,7 +1,20 @@
-button{
-    background-color: #f361fb;
-    border: solid #f361fb 2px;
-    border-radius: 35%;
-    object-fit:fill;
-    margin: auto 50px;
+button {
+  color: rgb(254, 254, 254);
+  background-color: rgb(26, 20, 99);
+  border: solid rgb(67, 20, 99) 1px;
+  border-radius: 8px;
+  box-shadow: 6px 8px 6px rgb(26, 20, 99);
+  object-fit: fill;
+  margin: auto 50px;  
+  transition: 0.8s;
+  cursor: pointer;  
+  text-transform: uppercase; 
+  text-align: center;
+  margin: auto 50px;
+  font-size: 2em;
+}
+
+button:hover {
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
 }
