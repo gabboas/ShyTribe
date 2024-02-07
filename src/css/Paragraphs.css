@@ -1,4 +1,12 @@
+p {
+  font-size: 20px;
+}
+
 #imgp__introduction {
-  margin: 5px 20px;
   color: rgb(254, 254, 254);
+  margin: 30px;
+}
+
+#aboutusp__text {
+  margin: 30px;
 }

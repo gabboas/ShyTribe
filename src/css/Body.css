@@ -6,7 +6,7 @@ Buttons: (color: #fc7b54)
 Textfield: (color: #fefefe)
 */
 
-
-body{
-    background-color: rgb(144, 43, 245);
+body {
+    background: -webkit-radial-gradient(circle, #8a2be2, #4b0082, #9400d3);
+  height: 100vh;
 }
