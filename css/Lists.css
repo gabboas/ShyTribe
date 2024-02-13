@@ -1,4 +1,13 @@
+li {
+  width: 200px;
+  height: 41px;
+}
 ul {
+  position: relative;
+  left: 500px;
   list-style: none;
   display: flex;
+  width: fit-content;
+}
+nav {
 }
